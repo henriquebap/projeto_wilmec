@@ -1,1 +1,1 @@
-web: gunicorn fusion-wilmec.wsgi --log-file -
+web: gunicorn fusion.wsgi --log-file -
